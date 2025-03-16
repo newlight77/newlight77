@@ -10,7 +10,7 @@ Passionate about code quality and crafting efficient solutions, I thrive on buil
 - 🌱 Constantly learning and sharing knowledge through my [Medium blog](https://medium.com/@newlight77)
 - 🎓 Education: Master's degree in Computer Science - System, Networks & Security
 - 🔭 Passionate about Product Engineering, cloud-native architectures, and software craftsmanship
-- 🌍 Based in Paris, France
+- 🌍 Based in Europe and Canada
 
 ## 💻 Tech Stack
 
